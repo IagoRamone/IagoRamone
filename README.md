@@ -51,9 +51,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iagoramone/Iagoramone/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iagoramone/Iagoramone/output/snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Iagoramone/Iagoramone/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake-dark.svg?refresh=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake.svg?refresh=1">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake.svg?refresh=1">
   </picture>
 </div>
 
