@@ -1,59 +1,176 @@
-<h2 align="left">Olá 👋!  Seja bem vindo</h2>
+<h1 align="left">Olá 👋! Eu sou o Iago Ramone</h1>
 
-###
+<h3 align="left">Data Analyst • Full-Stack Developer • Operations</h3>
+
+<p align="left">
+  Transformando dados em informação, informação em insights<br>
+  e insights em decisões melhores.
+</p>
+
+---
+
+## 📊 Data & Analytics
+
+Tenho interesse em transformar dados em informações úteis para apoiar decisões e melhorar processos.
+
+* 🐍 Python
+* 🐼 Pandas
+* 🗄️ SQL
+* 🐘 PostgreSQL
+* 🐬 MySQL
+* 📓 Jupyter
+* 📈 Power BI
+* 📊 Data Visualization
+* 🔎 Data Analysis
+
+## 💻 Development
+
+Minha experiência em desenvolvimento me permite construir não apenas as análises, mas também as ferramentas e sistemas que trabalham com esses dados.
+
+* ⚛️ Next.js
+* 🟨 JavaScript / TypeScript
+* 🐍 Django
+* 🐘 PHP
+* 🔌 APIs
+* 🔧 Git & GitHub
+* 🐳 Docker
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoRamone&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoRamone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=IagoRamone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoRamone&radius=16&theme=react&area=true&order=5" height="300" alt="GitHub activity graph" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=IagoRamone&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoRamone&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Most used languages" />
+
 </div>
 
+---
 
-###
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code Screen GIF" />
-
-###
+## 🛠️ Technologies & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+
 </div>
 
-###
+---
+
+## 🔍 What I Do
+
+```text
+DATA
+│
+├── Data Analysis
+├── Data Cleaning
+├── SQL Queries
+├── Data Visualization
+├── Dashboards
+└── Business Insights
+
+DEVELOPMENT
+│
+├── Full-Stack Applications
+├── REST APIs
+├── Backend Development
+├── Frontend Development
+└── Database Integration
+
+OPERATIONS
+│
+├── Process Management
+├── Team Management
+├── Automation
+└── Data-driven Decisions
+```
+
+---
+
+## 🚀 Currently Exploring
+
+* 📊 Advanced Data Analysis
+* 🐍 Python for Data
+* 🗄️ SQL & PostgreSQL
+* 📈 Business Intelligence
+* 🤖 Automation
+* 🌐 Full-Stack Applications
+* ☁️ Cloud & Modern Web Technologies
+
+---
+
+## 🌎 Languages
+
+* 🇧🇷 Portuguese — Native
+* 🇺🇸 English — Fluent
+* 🇪🇸 Spanish — Learning
+* 🇯🇵 Japanese — Learning
+
+---
+
+## 🤝 Let's Connect
 
 <div align="left">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5521972992737" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
 </a>
-  <a href="https://www.linkedin.com/in/iagoramone/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+<a href="https://wa.me/5521972992737" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+</a>
+
+<a href="https://www.linkedin.com/in/iagoramone/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
+
 </div>
 
 <br clear="both">
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake-dark.svg?refresh=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake.svg?refresh=1">
-  </picture>
-</div>
+---
 
-###
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
