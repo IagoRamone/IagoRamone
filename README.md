@@ -1,176 +1,171 @@
-<h1 align="left">Olá 👋! Eu sou o Iago Ramone</h1>
 
-<h3 align="left">Data Analyst • Full-Stack Developer • Operations</h3>
+<p align="center">
+  <img src="./assets/banner-dark.svg"
+       alt="Iago Ramone - Ciência e Análise de Dados"
+       width="100%" />
+</p>
+
+<p align="center">
+  <code>Ciência de Dados</code> ·
+  <code>Desenvolvimento de Software</code> ·
+  <code>Gestão e Operações</code>
+</p>
+
+## Sobre mim
+
+Atualmente, sou **COO (Diretor de Operações) na Winup Network**, com formação em Análise e Desenvolvimento de Sistemas e pós-graduando em Ciência de Dados e Machine Learning.
+
+Meus interesses estão na interseção entre estatística, tecnologia e estratégia de negócios.
+
+Busco compreender padrões, desenvolver soluções tecnológicas e otimizar operações por meio da análise de dados.
+
+> Transformando dados em informação, informação em conhecimento e conhecimento em decisões.
+
+## Áreas de atuação
+
+| Ciência e Análise de Dados | Desenvolvimento | Gestão e Operações |
+| :--- | :--- | :--- |
+| Análise exploratória de dados | Desenvolvimento Full-Stack | Gestão de operações |
+| Análise estatística | Integração de APIs REST | Gestão de equipes |
+| Visualização de dados | Desenvolvimento Backend | Otimização de processos |
+| Business Intelligence | Integração de bancos de dados | Análise de desempenho |
+| Análise preditiva | Automação de processos | Decisões orientadas por dados |
+
+## Tecnologias e ferramentas
+
+### Ciência e Análise de Dados
 
 <p align="left">
-  Transformando dados em informação, informação em insights<br>
-  e insights em decisões melhores.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+</p>
+
+`Python` · `Pandas` · `NumPy` · `SQL` · `Jupyter` · `Power BI` · `Matplotlib` · `Scikit-learn`
+
+### Desenvolvimento de Software
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+</p>
+
+`JavaScript` · `TypeScript` · `Next.js` · `Django` · `PHP` · `APIs REST`
+
+### Banco de Dados e Infraestrutura
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</p>
+
+`PostgreSQL` · `MySQL` · `Docker` · `Git` · `Linux`
+
+
+## Fluxo de análise de dados
+
+```mermaid
+flowchart LR
+    A["Coleta"] --> B["Tratamento"]
+    B --> C["Análise"]
+    C --> D["Insights"]
+    D --> E["Decisões"]
+
+    classDef stage fill:#161B22,stroke:#A855F7,color:#F3EDFF,stroke-width:1px;
+    class A,B,C,D,E stage;
+```
+
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IagoRamone&bg_color=0D1117&color=C9D1D9&line=A855F7&point=C4B5FD&area=true&area_color=7C3AED&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividades" />
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=IagoRamone&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=A855F7&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoRamone&layout=compact&langs_count=8&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+
+</div>
+
+## Estudos e pesquisas
+
+Atualmente, estou aprofundando meus conhecimentos em:
+
+- Estatística aplicada e probabilidade
+- Álgebra linear
+- Ciência de dados
+- Machine Learning
+- Modelagem preditiva
+- Inteligência artificial
+- Business Intelligence
+- Automação inteligente
+- Computação em nuvem
+
+## Idiomas
+
+| Idioma | Proficiência |
+| :--- | :--- |
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Fluente |
+| 🇪🇸 Espanhol | Em aprendizado 
+
+## Além da tecnologia
+
+Interesses que vão além da minha atuação profissional.
+
+⚛️ Física · ♟️ Xadrez · 🥊 Boxe · 🔴⚫ Flamengo
+
+## Conecte-se comigo
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/iagoramone/">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/IagoRamone">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.instagram.com/winup.network/">
+  <img src="https://img.shields.io/badge/Winup_Network-161B22?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Winup Network" />
+</a>
+
 </p>
 
 ---
 
-## 📊 Data & Analytics
-
-Tenho interesse em transformar dados em informações úteis para apoiar decisões e melhorar processos.
-
-* 🐍 Python
-* 🐼 Pandas
-* 🗄️ SQL
-* 🐘 PostgreSQL
-* 🐬 MySQL
-* 📓 Jupyter
-* 📈 Power BI
-* 📊 Data Visualization
-* 🔎 Data Analysis
-
-## 💻 Development
-
-Minha experiência em desenvolvimento me permite construir não apenas as análises, mas também as ferramentas e sistemas que trabalham com esses dados.
-
-* ⚛️ Next.js
-* 🟨 JavaScript / TypeScript
-* 🐍 Django
-* 🐘 PHP
-* 🔌 APIs
-* 🔧 Git & GitHub
-* 🐳 Docker
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IagoRamone&radius=16&theme=react&area=true&order=5" height="300" alt="GitHub activity graph" />
+<img src="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake-dark.svg" alt="Animação de contribuições do GitHub" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IagoRamone&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IagoRamone&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="170" alt="Most used languages" />
-
-</div>
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="Django" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
-
-</div>
-
----
-
-## 🔍 What I Do
-
-```text
-DATA
-│
-├── Data Analysis
-├── Data Cleaning
-├── SQL Queries
-├── Data Visualization
-├── Dashboards
-└── Business Insights
-
-DEVELOPMENT
-│
-├── Full-Stack Applications
-├── REST APIs
-├── Backend Development
-├── Frontend Development
-└── Database Integration
-
-OPERATIONS
-│
-├── Process Management
-├── Team Management
-├── Automation
-└── Data-driven Decisions
-```
-
----
-
-## 🚀 Currently Exploring
-
-* 📊 Advanced Data Analysis
-* 🐍 Python for Data
-* 🗄️ SQL & PostgreSQL
-* 📈 Business Intelligence
-* 🤖 Automation
-* 🌐 Full-Stack Applications
-* ☁️ Cloud & Modern Web Technologies
-
----
-
-## 🌎 Languages
-
-* 🇧🇷 Portuguese — Native
-* 🇺🇸 English — Fluent
-* 🇪🇸 Spanish — Learning
-* 🇯🇵 Japanese — Learning
-
----
-
-## 🤝 Let's Connect
-
-<div align="left">
-
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-</a>
-
-<a href="https://wa.me/5521972992737" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
-</a>
-
-<a href="https://www.linkedin.com/in/iagoramone/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-</a>
-
-</div>
-
-<br clear="both">
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IagoRamone/IagoRamone/output/snake-dark.svg" alt="GitHub contribution snake" />
+<sub>DADOS · CIÊNCIA · TECNOLOGIA · LIDERANÇA</sub>
 
 </div>
