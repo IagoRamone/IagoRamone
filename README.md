@@ -83,19 +83,14 @@ Busco compreender padrões, desenvolver soluções tecnológicas e otimizar oper
 
 `PostgreSQL` · `MySQL` · `Docker` · `Git` · `Linux`
 
-
 ## Fluxo de análise de dados
 
-```mermaid
-flowchart LR
-    A["Coleta"] --> B["Tratamento"]
-    B --> C["Análise"]
-    C --> D["Insights"]
-    D --> E["Decisões"]
+<p align="center">
+  <img src="./assets/data-flow.svg"
+       alt="Fluxo de análise de dados"
+       width="100%" />
+</p>
 
-    classDef stage fill:#161B22,stroke:#A855F7,color:#F3EDFF,stroke-width:1px;
-    class A,B,C,D,E stage;
-```
 
 
 ## Estatísticas do GitHub
